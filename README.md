@@ -1,11 +1,11 @@
 ## Hi, I'm Drill
 
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=lang-lua&show_icons=true&theme=blue_navy" alt="lang-lua" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=lang-luau&show_icons=true&theme=blue_navy" alt="lang-luau" /> </p>
 
 ## I'm familiar with
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?titles=true&i=cpp,cmake,java,lua,luau,python,assembly,php,javascript,html,css,mysql,regex,azure,nuxt,flutter,fastapi,laravel,git,github,githubactions,davinci,illustrator,robloxstudio,godot,discord)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?titles=true&i=cpp,java,lua,luau,python,php,javascript,html,css,,robloxstudio,godot,discord)
 
 <!--
 <div align="center">
