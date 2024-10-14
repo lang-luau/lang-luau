@@ -5,7 +5,7 @@
 
 ## I'm familiar with
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?titles=true&i=cpp,java,lua,luau,python,php,javascript,html,css,,robloxstudio,godot,discord)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?titles=true&i=cpp,java,lua,luau,python,javascript,html,css,robloxstudio,discord)
 
 <!--
 <div align="center">
